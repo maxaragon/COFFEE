@@ -27,10 +27,10 @@ N:65.76757944088327
   - Sea water velocity m/s
   
 - Global Ocean Biogeochemistry Analysis and Forecast
- - Mass concentration of chlorophyll a in sea water mg/m3
- - Mole concentration of dissolved iron in sea water mmol/m3
- - Mole concentration of dissolved molecular oxygen in sea water mmol/m3
- - Mole concentration of nitrate in sea water mmol/m3
- - Mole concentration of phosphate in sea water mmol/m3
- - Mole concentration of phytoplankton expressed as carbon in sea water mmol/m3
- - Mole concentration of silicate in sea water mmol/m3
+  - Mass concentration of chlorophyll a in sea water mg/m3
+  - Mole concentration of dissolved iron in sea water mmol/m3
+  - Mole concentration of dissolved molecular oxygen in sea water mmol/m3
+  - Mole concentration of nitrate in sea water mmol/m3
+  - Mole concentration of phosphate in sea water mmol/m3
+  - Mole concentration of phytoplankton expressed as carbon in sea water mmol/m3
+  - Mole concentration of silicate in sea water mmol/m3
