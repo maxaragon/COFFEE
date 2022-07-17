@@ -16,3 +16,5 @@ France
 ## Datasets:
 
 - ID: "EO:ECMWF:DAT:REANALYSIS_ERA5_SINGLE_LEVELS"
+
+[ERA5 documentation](https://confluence.ecmwf.int/display/CKB/ERA5%3A+data+documentation).
