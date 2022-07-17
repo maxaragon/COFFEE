@@ -1,6 +1,6 @@
 ## OPEN-SKY
 
-Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data. 
+- Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data. 
 
 ## Goals
 
@@ -11,7 +11,7 @@ Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data.
 
 ## AOI:
 
-France
+- France
 
 ## Datasets:
 
