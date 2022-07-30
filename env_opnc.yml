@@ -1,4 +1,4 @@
-name: /home/oscarn2/.conda-libs/env_opnc
+name: env_opnc
 channels:
   - conda-forge
   - defaults
