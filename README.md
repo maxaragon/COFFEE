@@ -1,6 +1,6 @@
-## COFFEE (Clouds Over France For Earth Education) :coffee: :cloud: :earth_africa:
+# COFFEE (Clouds Over France For Earth Education) :coffee: :cloud: :earth_africa:
 
-- Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data. 
+Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data. 
 
 ## Goals
 
@@ -16,6 +16,14 @@
 ## Datasets:
 
 - ID: "EO:ECMWF:DAT:REANALYSIS_ERA5_SINGLE_LEVELS"
+
+
+
+## Getting started:
+
+To install the environment and the kernel on Wekeo's JupyterHUB run:
+
+    sh start
 
 ## References:
 
