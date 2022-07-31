@@ -10,16 +10,19 @@ ERA5 total cloud cover (TCC)
 
 Sentinel-3 OLCI Level-2 Full Resolution Land
 
-
 ## Area of interest:
 
 France
 
 ## Getting started:
 
+From the terminal on Wekeo JupyterHub:
+
+    git clone https://github.com/maxaragon/COFFEE.git
+
 To install the environment and the kernel on Wekeo's JupyterHub run:
 
-    sh start
+    sh start.sh
 
 ## References:
 
