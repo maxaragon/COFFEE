@@ -1,4 +1,4 @@
-## OPEN-SKY
+## COFFEE (Clouds Over France For Earth Education) :coffee: :cloud: :earth_africa:
 
 - Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data. 
 
