@@ -1,21 +1,28 @@
-## COFFEE (Clouds Over France For Earth Education) :coffee: :cloud: :earth_africa:
+# COFFEE :coffee:
 
-- Open-source Jupyter Notebook forecasting total cloud cover using ERA5 data. 
+:cloud: Clouds Over France For Earth Education (COFFEE) investigates the spatiotemporal variability of cloud cover using deep learning 
 
-## Goals
+⚠ This repository has been primarly designed to run on [Wekeo JupyterLab](https://my.wekeo.eu/)
 
-- Utilize a ConvLSTM architecture to extract spatial and temporal features aiming to forecast next hour total cloud cover
+## Data
 
-- Evalute ERA5 total cloud cover model performance using Sentinel 2 and Sentinel 3 imagery
+ERA5 total cloud cover (TCC)
 
+Sentinel-3 OLCI Level-2 Full Resolution Land
 
-## AOI:
+## Area of interest:
 
-- France
+France
 
-## Datasets:
+## Getting started:
 
-- ID: "EO:ECMWF:DAT:REANALYSIS_ERA5_SINGLE_LEVELS"
+From the terminal on Wekeo JupyterHub:
+
+    git clone https://github.com/maxaragon/COFFEE.git
+
+To install the environment and the kernel on Wekeo's JupyterHub run:
+
+    sh start.sh
 
 ## References:
 
