@@ -6,7 +6,7 @@
 
 - Utilize a ConvLSTM architecture to extract spatial and temporal features aiming to forecast next hour total cloud cover
 
-- Evalute ERA5 total cloud cover model performance using Sentinel 2 and Sentinel 3 imagery
+- Evalute ERA5 total cloud cover model performance using Sentinel 3 imagery
 
 
 ## AOI:
