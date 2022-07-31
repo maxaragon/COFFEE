@@ -1,4 +1,4 @@
-name: COFFEE
+name: coffee
 channels:
   - cmts
   - conda-forge
