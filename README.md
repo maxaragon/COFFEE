@@ -2,7 +2,9 @@
 
 :cloud: Clouds Over France For Earth Education (COFFEE) investigates the spatiotemporal variability of cloud cover using deep learning 
 
-⚠ This repository has been primarly designed to run on [Wekeo JupyterLab](https://my.wekeo.eu/)
+⚠ This repository has been primarly optimized to run on [Wekeo JupyterLab](https://my.wekeo.eu/)
+
+⚠ Under construction! Jupyter Notebook competition extended deadline to September 4 2022
 
 ## Data
 
