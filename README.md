@@ -26,6 +26,7 @@ France
 
 3. Create an environment, install the kernel and download the data:
 
+       cd COFFEE
        sh start.sh
 
 ## References:
