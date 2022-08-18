@@ -18,13 +18,15 @@ France
 
 ## Getting started:
 
-From the terminal on Wekeo JupyterHub:
+1. Sign up on WEKEO and access the JupyterHub Machine Learning server https://www.wekeo.eu/docs/using-jupyter
 
-    git clone https://github.com/maxaragon/COFFEE.git
+2. From the terminal on Wekeo JupyterHub:
 
-Create an environment, install the kernel and download the data:
+       git clone https://github.com/maxaragon/COFFEE.git
 
-    sh start.sh
+3. Create an environment, install the kernel and download the data:
+
+       sh start.sh
 
 ## References:
 
