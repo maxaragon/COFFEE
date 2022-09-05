@@ -4,7 +4,6 @@
 
 ⚠ This repository has been primarly optimized to run on [Wekeo JupyterLab](https://my.wekeo.eu/)
 
-⚠ Under construction! Jupyter Notebook competition extended deadline to September 4 2022
 
 ## Data
 
